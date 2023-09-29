@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&family=Roboto&display=swap');
+
+html { font-size: 16px; /* 1rem = 24px, and not the default 16px */ }
+
+h1, h2, h3 {
+    font-family: 'Inconsolata', serif;
+}
+p {
+    font-family: 'Roboto', fantasy;
+}
+h1 { font-size: 2rem; }
+h2 { font-size: 1.7rem; }
